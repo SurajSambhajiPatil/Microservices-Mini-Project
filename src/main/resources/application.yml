@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 40-SBMS-Admin-Server
+
+Server:
+   port: 1111
